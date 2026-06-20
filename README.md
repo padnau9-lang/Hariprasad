@@ -1,4 +1,4 @@
-mini project 
+mini project 1
 <!DOCTYPE html>
 <html lang="en">
 <head>
